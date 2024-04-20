@@ -11,7 +11,6 @@ print ("""
                    by AJ 
 
 """)
-
 #print instructions
 print ("""
 This program will select a word at random and you will guess letter by letter, what the word is.
